@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241220486081",
+    "project_id": "riderapp-793be",
+    "storage_bucket": "riderapp-793be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241220486081:android:63b923ba3c48244cb42540",
+        "android_client_info": {
+          "package_name": "com.impactsoftwares.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241220486081-c60buvoernoc1q0er87d66958b0d5bi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfFFOV_U8tOK_w9jc0NKTGm1XRXPj8xac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241220486081-c60buvoernoc1q0er87d66958b0d5bi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

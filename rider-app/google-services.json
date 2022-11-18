@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "245650991332",
+    "project_id": "pocketmart-7d77a",
+    "storage_bucket": "pocketmart-7d77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245650991332:android:126cf25950b75090a1e4f1",
+        "android_client_info": {
+          "package_name": "com.impactsoftwares.pocketmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245650991332-5mg3o6s35jna9lf4o24a2doi2nau1j5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULCPR0LkZsNGVvlzSrlOpZEeDJs7_SDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245650991332-5mg3o6s35jna9lf4o24a2doi2nau1j5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245650991332:android:270d530808f123a0a1e4f1",
+        "android_client_info": {
+          "package_name": "com.impactsoftwares.pocketmart_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245650991332-5mg3o6s35jna9lf4o24a2doi2nau1j5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULCPR0LkZsNGVvlzSrlOpZEeDJs7_SDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245650991332-5mg3o6s35jna9lf4o24a2doi2nau1j5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
